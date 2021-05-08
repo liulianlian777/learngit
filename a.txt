@@ -11,3 +11,4 @@ Git has a mutable index called stage.
 777
 888
 9999999999999999999999999
+您好，你好，你好恩恩额哈哈哈
